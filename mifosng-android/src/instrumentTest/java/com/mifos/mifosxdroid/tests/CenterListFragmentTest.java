@@ -12,6 +12,8 @@ import com.mifos.mifosxdroid.R;
 import com.mifos.mifosxdroid.online.CentersActivity;
 import com.mifos.utils.Constants;
 
+// Adi has added a big chunk of code here
+
 /**
  * Created by Gabriel Esteban on 12/12/14.
  */
